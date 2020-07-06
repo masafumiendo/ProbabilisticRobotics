@@ -140,7 +140,7 @@ def trial():
     
     world.draw()
     
-trial()
+# trial()
 
 
 # In[ ]:
