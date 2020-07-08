@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4129ad3c-408f-4029-8f35-07be616ebea0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProbabilisticRobotics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProbabilisticRobotics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_fastslam/fastslam5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/section_fastslam/fastslam5.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/section_sensor/lidar_200.ipynb">
+        <entry file="file://$PROJECT_DIR$/section_fastslam/fastslam5.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -40,12 +39,13 @@
       <list>
         <option value="$PROJECT_DIR$/chapter_01/lidar_200.ipynb" />
         <option value="$PROJECT_DIR$/section_sensor/lidar_200.ipynb" />
+        <option value="$PROJECT_DIR$/section_fastslam/fastslam5.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
-    <option name="y" value="-650" />
+    <option name="y" value="-362" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -54,6 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,11 +62,15 @@
               <item name="ProbabilisticRobotics" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProbabilisticRobotics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProbabilisticRobotics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProbabilisticRobotics" type="462c0819:PsiDirectoryNode" />
+              <item name="section_fastslam" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +149,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_fastslam/fastslam5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
